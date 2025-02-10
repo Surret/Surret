@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Surret
-- 👀 I’m interested in Electronics, Video games and programming.
-- 🌱 I’m currently learning Javascript though it seams to be kicking my butt right now!
+- 👋 Hi, I’m @Surret or at least my real name is Jason Smith
+- 👀 I’m interested in Electronics, 3D Printing and Programming.
+- 🌱 I’m currently learning Python and C++ to use in Embedded electronics!
 - 💞️ I’m looking to collaborate on anything that can help me learn more on using programming languages.
-- 📫 How to reach me. Always on twitter I check that more regualy than anything else go to https://twitter.com/Surrettun and you will find me.
+- 📫 How to reach me. Email me on jasonjohnsmith31@gmail.com or message me on linkedin at https://www.linkedin.com/in/jasonjohnsmith/.
 
 <!---
 Surret/Surret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
