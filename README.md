@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Surret or at least my real name is Jason Smith
-- 👀 I’m interested in Electronics, 3D Printing and Programming.
-- 🌱 I’m currently learning Python and C++ to use in Embedded electronics!
-- 💞️ I’m looking to collaborate on anything that can help me learn more on using programming languages.
-- 📫 How to reach me. Email me on jasonjohnsmith31@gmail.com or message me on linkedin at https://www.linkedin.com/in/jasonjohnsmith/.
+👋 Hi, I’m @Surret (Jason Smith)!
 
-<!---
-Surret/Surret is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Currently focused on Full-Stack Web Development.** Building robust and scalable web applications with a passion for problem-solving and clean code.
+
+📚 **Learning & Building:** Actively applying and expanding skills in **Next.js, React, Node.js, Express.js, PostgreSQL, GraphQL, and Docker**. My recent **SpaceX Ship Viewer** project demonstrates my ability to deliver full-stack solutions from concept to deployment.
+
+💡 **Background:** Bringing 6+ years of strong technical troubleshooting, system optimisation, and meticulous problem-solving from electronics and IT support industries. This foundation provides a unique analytical perspective on software development challenges.
+
+🤝 **Looking to Collaborate:** Eager to contribute to innovative web projects and learn from experienced developers.
+
+📫 **How to reach me:**
+* Email: jasonjohnsmith31@gmail.com
+* LinkedIn: [https://www.linkedin.com/in/jasonjohnsmith/](https://www.linkedin.com/in/jasonjohnsmith/)
